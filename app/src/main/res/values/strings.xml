@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iPainter</string>
+    <string name="btn" />
+    <string-array name="levels">
+        <item>level01</item>
+        <item>level02</item>
+        <item>level03</item>
+        <item>level04</item>
+        <item>level05</item>
+        <item>level06</item>
+    </string-array>
+</resources>
